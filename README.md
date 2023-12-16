@@ -10,3 +10,7 @@ Each folder contains a readme file that describes each project.
 
 `project_three`: Code and report for project 3: Comparative Analysis of Simulated vs. Non-Simulated Transportability
 
+
+# Read.me files
+
+Each file have their own read.me file for each project. Each project file is accompanied by its own README document, providing detailed guidance and information specific to that file.
